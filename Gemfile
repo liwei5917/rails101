@@ -9,6 +9,8 @@ gem 'sqlite3'
 
 gem "devise"
 
+gem "will_paginate"
+
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
